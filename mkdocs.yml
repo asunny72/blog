@@ -1,0 +1,70 @@
+site_name: A. Sun Wiki
+theme:
+  name: material
+  logo: img/megazord.png
+  favicon: img/favicon.ico
+  font: false
+  features:
+    - navigation.top
+    - content.code.copy
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - mdx_truly_sane_lists
+  - admonition
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - search
+  - exclude-search:
+      exclude:
+        - "*2023-08-10_video-compression-eval*"
+        - "*sparkai-demo-notebook*"
+  - swagger-ui-tag
+  - build_plantuml:
+      render: "local"
+      bin_path: "java -jar /opt/plantuml.jar"
+      server: "http://www.plantuml.com/plantuml"
+      disable_ssl_certificate_validation: true
+      output_format: "svg"
+      diagram_root: "docs/diagrams"
+      output_folder: "out"
+      input_folder: "src"
+      input_extensions: ""
+      theme_enabled: true
+      theme_folder: "include/themes"
+      theme_light: "light.puml"
+      theme_dark: "dark.puml"
+  - mkdocs-jupyter
