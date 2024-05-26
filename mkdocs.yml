@@ -1,7 +1,7 @@
 site_name: A. Sun Wiki
 theme:
   name: material
-  logo: img/megazord.png
+  logo: img/a.png
   favicon: img/favicon.ico
   font: false
   features:
