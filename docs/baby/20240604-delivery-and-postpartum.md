@@ -38,6 +38,7 @@ Changelog:
   - Doctor is urgently called into room
     -12am - 12:10am: Labor starts - Mama asked if she needed restroom first, mama politely refused
 
+    - Papa tried to stay out of the way of the nurses playing overcooked on Hard mode.
     - No time to administer any kind of pain medication.
     - Nurses barely moved Mama to bed, and papa beside her in the delivery room before Mama started first push. Could see a sliver of the baby's head
     - Mama hyperventilating after first push. Nurse firmly instructed mama to breathe
@@ -66,7 +67,7 @@ Our immediate family members were either attending graduations in other states o
 
 Fortunately, when mama's mother found out about the birth, she cancelled her upcoming trip to attend friend's daughter's graduation and took the week off of work to support us. She stayed with us during waking hours for an entire week, even after we left the hospital.
 
-During this time, she exceled at holding the baby to help him sleep, making sure Mama and Papa were fed and hydrated, and helped us navigate a storm of context switches from various check-ups and nurse/doctor/lactation visits and made sure to ask critical questions that we may have neglected. She also took on the responsiblity of providing ALL other family members updates on the baby, so that Mama and Papa could focus on baby.
+During this time, she exceled at holding the baby to help him sleep, making sure Mama and Papa were fed and hydrated, and helped us navigate a storm of context switches from various check-ups and nurse/doctor/lactation visits and made sure to ask critical questions that we may have neglected. She also took on the responsiblity of providing ALL other family members updates on the baby, so that Mama and Papa could focus on baby. Ah, and she used her vast network to find us a highly well reviewed Lactation consultant who we could work with post hospital stay.
 
 ## Blood Sugar Roller Coaster
 
@@ -89,5 +90,15 @@ TK
 TK
 
 ## Visiting Hours
+
+TK
+
+# The Overall Experience
+
+## Mama
+
+TK
+
+## Papa
 
 TK
