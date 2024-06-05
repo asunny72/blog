@@ -97,9 +97,11 @@ All the baby gear we buy needs to help us stream line these processes, during wh
 - Baby's sleeping station
 
   - Crib
-  - mattress water proof protector
+  - mattress
+  - breathable crib mattress cover
+    - prefer one that enables airflow to circulate even under the baby to improve temperature regulation and to allow baby to breathe directly throught the cover if necessary)
   - baby mobile that plays music
-    - baby can't see yet, so the visuals are not as important as the audio
+  - baby can't see yet, so the visuals are not as important as the audio
   - baby monitor - I recommend not wifi based as the monitor needs to be reliable even in the event of wifi outages
   - temperature monitor near the crib (NOT in!) to make sure surrounding temp falls within the acceptable range.
 
@@ -258,39 +260,32 @@ When possible, I do my best to follow the following critiera when buying items (
 
 - Rear facing infant car seat
 
-  - Clek Liing, in flame retardant free cloth
-    - the highest ranked car seat for safety by both consumer reports and baby gear lab
+  - Clek Liing, in flame retardant free cloth ([link](https://www.amazon.com/dp/B09DTG1Q4K/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I1D27NFL458IP&psc=1))
+    - highest ranked car seat for safety by both consumer reports and baby gear lab
     - We picked out this seat first, and looked for a compatable stroller 2nd
-    - amzn [link](https://www.amazon.com/dp/B09DTG1Q4K/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I1D27NFL458IP&psc=1)
 
-- Car Window shade
+- Car Window shade [link](https://www.amazon.com/Munchkin%C2%AE-Brica%C2%AE-SafetyTM-Window-Roller/dp/B00WH7Y7TY/ref=sr_1_5?sr=8-5)
 
-  - amzn [link](https://www.amazon.com/Munchkin%C2%AE-Brica%C2%AE-SafetyTM-Window-Roller/dp/B00WH7Y7TY/ref=sr_1_5?sr=8-5)
+- Baby on board stickers ([link 1](https://www.amazon.com/dp/B0B8VT4461/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I1B5LPH2SMU6G4), [link 2](https://www.amazon.com/dp/B0B7LV1NPN/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I3S6JGU27GAN38))
 
-- Baby on board stickers
-
-  - amzn [link 1](https://www.amazon.com/dp/B0B8VT4461/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I1B5LPH2SMU6G4), [link 2](https://www.amazon.com/dp/B0B7LV1NPN/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I3S6JGU27GAN38)
-
-- Newborn clothes
-
-  - amzn [link](https://www.amazon.com/Simple-Joys-Carters-3-Pack-Preemie/dp/B075XRWJ3N/ref=sr_1_1?s=baby-products&sr=1-1)
+- 3 Newborn onesies ([link](https://www.amazon.com/Simple-Joys-Carters-3-Pack-Preemie/dp/B075XRWJ3N/ref=sr_1_1?s=baby-products&sr=1-1))
 
 - Blankets for Car
 
-  - amzn [link](https://www.amazon.com/dp/B0BQ1888PN?ref=ppx_yo2ov_dt_b_product_details)
-  - resuse swaddles (below)
+  - can reuse swaddles (links below)
+  - we got an nice looking one for fun ([link](https://www.amazon.com/dp/B0BQ1888PN?ref=ppx_yo2ov_dt_b_product_details))
 
 - Diaper Bag
 
+  - IMO ask doctor what gift they give you after delivery. Ours included a diaper bag
+  - Our friend gifted us this bag, we did not do research ahead of time: [link](https://www.bugaboo.com/us-en/accessories/bags/bugaboo-changing-backpack-misty-grey-100089013.html?cectid=1-13079-1&gad_source=1)
   - Nursing Cover: [link](https://www.amazon.com/dp/B0817CS1D4/ref=br_dsk_yr_item_seebyopt?colid=1WJ6CRJNFGWAS&coliid=I1PZXNL53BNWZ7)
   - Burp Cloth, wipes, diapers, spare onesies covered in later section
-  - the actual bag: IMO ask doctor what gift they give you after delivery. Ours included a diaper bag
-  - Our friend gifted us this bag, we did not do research ahead of time: [link](https://www.bugaboo.com/us-en/accessories/bags/bugaboo-changing-backpack-misty-grey-100089013.html?cectid=1-13079-1&gad_source=1)
 
 - Stroller
 
   - Clek Liing car seat suports maxi cosi adapters, so any stroller that supports that will work
-  - We picked the bumbleride brand for travel systems as a)that is what Clek recommends and b) the fabrics are PFAS free and Oeko-Tex certified
+  - We picked the bumbleride brand for travel systems as a) that is what Clek recommends and b) the fabrics are PFAS free and Oeko-Tex certified
   - Specifically, we chose the all terrain model due to our proximity to graveled trails: Bumbleride Inde All Terrain Stroller ([link](https://bumbleride.com/products/indie-all-terrain-stroller)), with maxi cosi adapters for clek liing ([link](https://bumbleride.com/collections/accessories/products/indie-speed-adapter-clek-maxi-cosi-cybex-nuna))
 
   ### Baby's routine at home
@@ -302,111 +297,148 @@ When possible, I do my best to follow the following critiera when buying items (
     - Hardwoods only, and water based finish, greed guard certified
     - Can convert eventually to full size bed
 
-  - mattress ([link]())
-  - mattress water proof protector x2 ([link]())
-  - baby mobile that plays music ([link]())
+  - mattress ([link](https://www.amazon.com/dp/B0817CS1D4/ref=br_dsk_yr_item_seebyopt?colid=1WJ6CRJNFGWAS&coliid=I1PZXNL53BNWZ7))
 
-  - baby monitor ([link]())
-  - temperature monitor near the crib (NOT in!) ([link]())
+    - gots and greenguard certified
+    - waterproof coating
+    - comes with breathable cover that allows air to flow under the baby -> e.g., in theory babies can breathe through it, so if they accidentally roll over onto their stomach, and their face is pressed against the bed, they can, again, in theory still breath. This is per marketing on their website. I have not personally tested and am not a medical professional, nor am I giving trustworthy advice. These are my personal opinions. Please consult your medical professional, and do not hold me liable.
+
+  - mattress breathable crib mattress cover ([link](https://www.naturepedic.com/baby/bedding/organic-breathable-crib-cover))
+    - One came with mattress, buying an extra ad-hoc
+  - Burp Cloth, wipes, diapers, spare onesies covered in later section
+  - baby mobile that plays music ([link](https://www.amazon.com/dp/B07HNXHQHB/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=IJNIC5M6WHI50))
+
+    - Linked to the one we got. I actually do NOT recommend this specific item
+      - The motor to rotate the mobile is heavy, and hangs directly over the mattress. Were any strapping mechanism to fail, this motor is crashing down onto the mattress potentially at the baby
+      - Also, battery life is not great. Powered by AAA batteries, but need to be changed every week if you use around 8 times per day.
+      - That being said, I have yet to find an alternative that self rotates and plays music.
+
+  - baby monitor ([link](https://www.amazon.com/Babysense-Split-Screen-Monitor-Two-Way-5000mAh/dp/B0BRYFD1YT?pd_rd_i=B0BRYFD1YT&ref_=pd_bap_d_grid_rp_0_1_ec_cp_pd_rhf_se_s_rp_c_d_sccl_2_17_t))
+    - Not wifi based, so even if there is an outage monitor will run
+    - monitor doubles as optional night light, and music machine
+    - The camera units need to be connected to wall power, and come with wall mounts, and a tripod mount
+    - Receiver battery life lasts about day and a half before needing charge.
+    - Receiver can remotely pan and tilt the camera
+  - temperature monitor near the crib (NOT in!) ([link](https://www.amazon.com/LittleHippo-Changing-Customizable-Thermometer-Hygrometer/dp/B078Z4JCJL?pd_rd_i=B078Z4JCJL&psc=1&ref_=pd_bap_d_grid_rp_0_7_t))
+    - This one emits, optionally, an amber light when temperature is within acceptable range, and glows blue when room is too cold, and red when room is too hot
+    - Once glance from anywhere in the room is all it takes to confirm whether room temp is okay
 
 - Hand washing station
 
-  - Fragrance free soap for baby's sensitive skin ([link]())
-  - Hand lotion that we apply after baby is in bed ([link]())
+  - Fragrance free soap for baby's sensitive skin ([link](https://www.amazon.com/Seventh-Generation-Hand-Clean-Unscented/dp/B00LR21BBM/ref=sr_1_6?rdc=1&sr=8-6))
+  - Hand lotion that we apply after baby is in bed ([link](https://www.amazon.com/Gold-Bond-Ultimate-Intensive-Healing/dp/B00A8S6HM4/ref=sr_1_2_sspa?sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1))
 
 - Diaper changing station
 
-  - Dressor with a changing table and changing pad on top ([link]())
+  - Dressor with a changing table and changing pad on top ([link](https://babyletto.com/products/bento-3-drawer-changer-dresser-with-removable-changing-tray?variant=39504944398390&nbt=nb%3Aadwords%3Ax%3A16408512883%3A%3A&nb_adtype=pla&nb_kwd=&nb_ti=&nb_mi=134418441&nb_pc=online&nb_pi=shopify_US_6596974542902_39504944398390&nb_ppi=&nb_placement=&nb_si={sourceid}&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=&tw_source=google&tw_adid=&tw_campaign=16408512883&gad_source=1))
 
-    - Diapers - Get at least 120 diapers for the first two weeks. ([link]())
-    - Primary Wipes
-      - for most, these would be wet wipes ([link]())
-      - I actually manually moisten dry wipes each time ([link]())
-    - Dry wipes (see above bullet)
+    - greenguard certified
+    - not ideal in that there is still engineered wood, but needed the hardwood dressors jump in price into the $1000 plus range
 
-    - Aquaphor for diaper rash! ([link]())
+  - Diapers - Get at least 120 diapers for the first two weeks. ([link](https://www.amazon.com/HUGGIES-Snugglers-Diapers-CONVENIENCE-Packaging/dp/B00J7PIH2C/ref=sr_1_4?rdc=1&s=baby-products&sr=1-4))
 
-    - Start with 3 of the same type of receiving blankets as the hospital. [link](https://www.amazon.com/PILL-THING-Swaddle-Hospital-Receiving/dp/B085LSX4RX/ref=asc_df_B085LSX4RX/?gad_source=1&hvadid=693129867965&hvdev=c&hvdvcmdl=undefined&hvlocint=undefined&hvlocphy=9032172&hvnetw=g&hvpone=undefined&hvpos=undefined&hvptwo=undefined&hvqmt=undefined&hvrand=6728397118804932852&hvtargid=pla-1251729297828&mcid=02f02015aba932edb7642ff8b0def27f)
-    - Start with 3 jersey/spandex blend blankets ([link]())
-    - Start with 3 square muslin blankets. ([link]())
-    - Start with 3 square 30" by 30" flannel blankets. We found [these](https://www.target.com/p/flannel-baby-blanket-whales-4pk-cloud-island-8482/-/A-89298963#lnk=sametab) at Target.
-    - Start with 3 velcro swaddles. ([link]())
-    - At least 6 burp clothes. ([link]())
-    - At least 4 crib mattress sheets.
-      - ([link]())
-      - ([link]())
-    - At least 2 mattress waterproof pads (already shared above).
-    - 2 baby towels. ([link]())
+    - buy one pack in newborn size
+    - once baby arrives, order more in the correct size
 
-  - Clamp light that attaches to the changing table ([link]())
-  - Diaper pail ([link]())
+  - Primary Wipes
+
+    - for most, these would be wet wipes ([link](https://www.amazon.com/gp/aw/d/B07SH6HN2X/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=d82da6ab528c184cee6c0e8e2ad8e9ec&hsa_cr_id=1879465430801&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_be_s_sparkle_lsi4d_asin_0_title))
+
+      - we chose unscented wet wipes that are over 99% water and are hypoallergenic
+
+    - I actually manually moisten dry wipes each time ([link](https://www.amazon.com/Honest-Company-Organic-Cotton-Wipes/dp/B08CYBPHNF/ref=sr_1_2?rdc=1&s=baby-products&sr=1-2))
+      - helpful for super delicate or tender skin, and for drying
+
+  - Dry wipes (see above bullet)
+
+  - Aquaphor for diaper rash! ([link](https://www.amazon.com/dp/B0107QP1VE/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I2F64B2YFXFVJB))
+
+  - Same type of receiving blankets as the hospital. [link](https://www.amazon.com/PILL-THING-Swaddle-Hospital-Receiving/dp/B085LSX4RX/ref=asc_df_B085LSX4RX/?gad_source=1&hvadid=693129867965&hvdev=c&hvdvcmdl=undefined&hvlocint=undefined&hvlocphy=9032172&hvnetw=g&hvpone=undefined&hvpos=undefined&hvptwo=undefined&hvqmt=undefined&hvrand=6728397118804932852&hvtargid=pla-1251729297828&mcid=02f02015aba932edb7642ff8b0def27f)
+  - 3 jersey/spandex blend blankets ([link](https://www.target.com/p/jersey-swaddle-baby-blanket-gray-3pk-cloud-island-8482/-/A-86859047#lnk=sametab))
+    - Oeto-tex certified
+  - Start with 3 square muslin blankets.
+    - picked up from target in person, can't find exact match nor do I remember the brand, but something like ([this](https://www.target.com/p/muslin-swaddle-blankets-adventure-cloud-island-8482-blue-3pk/-/A-80189660#lnk=sametab))
+  - Start with 3 square 30" by 30" flannel blankets. We found [these](https://www.target.com/p/flannel-baby-blanket-whales-4pk-cloud-island-8482/-/A-89298963#lnk=sametab) at Target.
+  - Start with 3 velcro swaddles ([link](https://www.amazon.com/dp/B09Q4R94ML?ref=ppx_yo2ov_dt_b_product_details))
+  - At least 6 burp clothes. ([link](https://www.amazon.com/dp/B0CLPGQWNB/ref=br_dsk_yr_item_seebyopt?colid=1WJ6CRJNFGWAS&coliid=I25EKXODNIGTVK))
+  - At least 4 crib mattress sheets. Examples below. Both either GOTS or oeko-tex certified
+  - ([link](https://www.amazon.com/dp/B001MUOLG6/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I1Q4XP12DC8W5O&psc=1))
+  - ([link](https://www.target.com/p/fitted-jersey-crib-sheet-safari-stripes-2pk-cloud-island-8482/-/A-89298943#lnk=sametab))
+  - 2 baby towels. ([link](https://www.amazon.com/dp/B0BHYDPWVQ/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I2YMVQQ72G38KU))
+
+  - Clamp light that attaches to the changing table ([link](https://www.amazon.com/gp/product/B0BWDN69HN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8))
+  - Diaper pail ([link](https://www.amazon.com/dp/B01049VXFM/ref=br_dsk_yr_item_seebyopt?colid=1WJ6CRJNFGWAS&coliid=I2SUAYED7QOWWB))
 
 - Feeding preparation station
 
-  - We had another raised surface (we used a dressor) that we used to prepare supplementary milk.
+  - We had another raised surface (we used a dressor) that we used to prepare supplementary milk ([link](https://babyletto.com/products/gelato-3-drawer-changer-dresser-with-removable-changing-tray?variant=1794434531352)).
   - Clean, ready to use bottles (N/A as we actually used a supplementary nutrition system)
-  - Bottle holding rack ([link]())
+  - Bottle holding rack ([link](https://www.amazon.com/dp/B00RQ83N76/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I3GXG55TCSCD7U&psc=1))
   - Journal to log feed info
-  - Whiteboard to display the time of next feeding, and any feedings notes
+  - Whiteboard to display the time of next feeding, and any feedings notes ([link](https://www.target.com/p/u-brands-11-34-x14-34-contempo-magnetic-dry-erase-board-white/-/A-50525359#lnk=sametab))
   - Burp cloth (shared above)
 
 - Nursing Station
 
-  - wedge pillow ([link]())
-  - 7 queen sized pillows ([link]())
-  - 1 longer pillow ([link]())
+  - wedge pillow ([link](https://www.amazon.com/gp/product/B09CFW2M16/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1))
+  - 7 queen sized pillows
+    - no recommendation -> get firm memory foam ones
+  - 1 longer pillow
+    - no recommendation
   - Towels, burp clothes shared above
-  - Clock ([link]())
+  - Clock ([link](https://www.amazon.com/Foxtop-Non-Ticking-Operated-Decorative-Classroom/dp/B07RS18VQ4?pd_rd_i=B07RS18VQ4&ref_=pd_bap_d_grid_rp_0_1_ec_pd_rhf_se_s_rp_c_d_sccl_2_5_t))
 
 - Soothing Station
 
   - Glider/Rocking chair to sit with baby for extended durations (30 min to 3 hours)
+    - no recommendation as we inherited ours
   - Pillows to support arms when holding baby (shared above)
   - Blankets to keep baby warm
     - reuse swaddle, car blanket
-    - soft fuzzy one we picked up from target ([link]())
-  - Surface to place tablet, and refreshments to keep parent alert during a potentially long soothing session ([link]())
+    - soft fuzzy one we picked up from target ([link](https://www.target.com/p/chenille-stripe-baby-blanket-yellow-and-white-stripes-cloud-island-8482/-/A-86858975#lnk=sametab))
+  - Surface to place tablet, and refreshments to keep parent alert during a potentially long soothing session ([link](https://www.amazon.com/gp/product/B0006D50RO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8))
 
 - Walking "Station"
 
-  - Bassinet that connects to stroller.
+  - Bassinet that connects to stroller ([link](https://www.potterybarnkids.com/products/bumbleride-era-indie-speed-stroller-bassinet/?catalogId=10&sku=3902727&cm_ven=PLA&cm_cat=Google&cm_pla=Baby%20Gear%20%3E%20Stroller%20Accessories&cm_ite=3902727_14726664444_pla-327533561682&gad_source=1&adlclid=ADL-a4281a1a-e0a0-439f-8eb8-d864876dc9d3))
 
 - Pumping Station
 
   - Breast pump - consult medical professionals
-  - Timer ([link]())
+  - Timer ([link](https://www.amazon.com/dp/B07TMPRG8D?psc=1&ref=ppx_yo2ov_dt_b_product_details))
   - Charger for baby monitor receiver (shared above)
   - Tablet and tablet stand to entertain mama
-    - tablet stand ([link]())
+    - tablet stand ([link](https://www.amazon.com/Anozer-Foldable-Adjustable-Extendable-Compatible/dp/B089K6C49L?pd_rd_i=B089K6C49L&psc=1&ref_=pd_bap_d_grid_rp_0_1_ec_cp_pd_rhf_se_s_rp_c_d_sccl_2_22_t))
   - Wipes/cloth handy for drips (shared above)
-  - Bottles to hold milk ([link]())
+  - Bottles to hold milk ([link](https://www.amazon.com/Medela-Breast-Milk-Storage-Solution/dp/B006R3KBYO/ref=sr_1_10?sr=8-10))
 
 - Tummy Time Station
 
-  - Tummy time mat ([link]())
+  - Tummy time mat ([link](https://www.amazon.com/dp/B075R8BXXC/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I2ZXTRMG4QH0BF&psc=1))
   - High contrast cards to stimulate baby's vision (included above)
   - Mirrors - we found our baby responds most to mirrors (included above)
 
 - Baby Hygiene Items
 
-  - baby nail file - super gentle ([link]())
-  - baby rectal thermometer just in case ([link]())
+  - baby nail file - super gentle ([link](https://www.amazon.com/NailFrida-SnipperClipper-Set-Fridababy-essential/dp/B01644OCVS/ref=sr_1_7?s=baby-products&sr=1-7))
+    - get a curved nail file - easier to maneuver
+  - baby rectal thermometer just in case ([link](https://www.amazon.com/FridaBaby-Digital-Thermometer-Fevers-Underarm/dp/B08GVN8XJL/ref=sr_1_2?s=baby-products&sr=1-2))
   - baby nose pump (we also keep on in a corner in the crib) - given to us by hospital
 
 - Baby Gear Cleaning Station
 
-  - scent free laundry detergent ([link]())
-  - eye masks for mama and papa to sleep with ([link]())
-  - Bottle Cleaning Brush set ([link]())
+  - scent free laundry detergent ([link](https://www.amazon.com/Tide-Gentle-Liquid-Laundry-Detergent/dp/B085V5ZMV9/ref=sr_1_6?sr=8-6))
+  - eye masks for mama and papa to sleep with ([link](https://www.amazon.com/dp/B07KC5DWCC?ref=nb_sb_ss_w_as-reorder_k0_1_6&amp=&amp=))
+  - Bottle Cleaning Brush set ([link](https://www.amazon.com/dp/B082PZ44M9/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=IP0ZSPBA8CICI&psc=1))
   - Mini tub for the kitchen sink to use as the "sink" for baby gear to prevent contamination - hosptial provided this for us
-  - Baby Dish soap and bottle cleaner ([link]())
-  - Baby Bottle countertop drying rack ([link]())
-  - Soiled linens basket ([link]())
+  - Baby Dish soap and bottle cleaner ([link](https://www.amazon.com/dp/B07S15TY3H/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I2ZJ04QHRV1ESY&psc=1))
+  - Baby Bottle countertop drying rack ([link](https://www.amazon.com/Munchkin-Fold-Bottle-Drying-Rack/dp/B00RQ83N76/ref=sr_1_7?sr=8-7))
+  - Soiled linens basket ([link](https://www.target.com/p/natural-woven-round-storage-bin-with-coiled-rope-handle-cloud-island-8482-m/-/A-83666598#lnk=sametab))
 
 - Misc
 
-  - Fan to circulate air ([link]())
+  - Fan to circulate air ([link](https://www.amazon.com/Dreo-Bedroom-Circulator-Airflow-adjustable/dp/B0BSH75KZ3?pd_rd_i=B0BSH75KZ3&ref_=pd_bap_d_grid_rp_0_1_ec_nped_pd_rhf_se_s_rp_c_d_sccl_2_12_t))
   - Curtains for privacy while nursing - no recommendation specifically -> look for Oeka-Tex certified
-  - Night light ([link]())
+  - Night light ([link](https://www.ikea.com/us/en/p/aftonsparv-led-table-lamp-rocket-multicolor-10555235/))
   - Wall powered white noise machine (don't deal with batteries) - no recommendation
-  - 3 hats for baby ([link]())
+  - 3 hats for baby ([link](https://www.amazon.com/dp/B0BBSWZB4T/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=IVCKXEBVFVEI4&psc=1))
