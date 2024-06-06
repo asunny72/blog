@@ -92,6 +92,8 @@ Ocassionally, we also perform the following:
 
 And in the event baby is sick, we need to be prepared to measure baby's temperature.
 
+![baby stations](./img/baby-stations.png)
+
 All the baby gear we buy needs to help us stream line these processes, during which we are severely sleep deprived.
 
 - Baby's sleeping station
