@@ -46,7 +46,7 @@ Changelog:
     - Nurses barely moved Mama to bed, and papa beside her in the delivery room before Mama started first push. Could see a sliver of the baby's head
     - Mama hyperventilating after first push. Nurse firmly instructed mama to breathe
     - 2nd push: Papa asked to manually pin open Mama's leg as there was no time to properly set up the bed. Doctor's asked Mama if she wanted to see the head. Nurses instruct mama how to breath and push with the contractions. Doctor instructed nurses to shorten the bed as it was too long for her to "catch" the baby. Papa instructed to move mama higher up in the bed. Mama verbally stated she didn't want to do another push.
-    - 3rd push. The longest push, but most powerful. All encouraged Mama. Eventually the head "popped" out, followed by baby's first (think Mario jump) and followed by white snake (umbillical cord)
+    - 3rd push. The longest push, but most powerful. All encouraged Mama. Eventually the head "popped" out, followed by baby's fist (think Mario jump) and followed by white snake (umbillical cord)
 
   - 12:10am: Baby born
 
@@ -91,7 +91,7 @@ I can no longer recall the specific details. I will do my best, but primarily I 
     - lab technician took blood tests (stamps) for california genetic screening and caused intense crying for what felt like an enternity
     - pediatrician noticed really red belly button, nurse noted umbillical cord clamp was supposed to be removed yesterday, and that it could be causing irritation. Decided to have baby stay one more day in hospital to rule out infection
   - 230 pm: Lactation taught how to use nipple shield
-  - Afternoon: final Jaundice blood test (positive results)
+  - Afternoon: final Jaundice blood test (favorable results)
   - 9:15 pm: Mama discharged from hospital, but baby still not
 
 - 5/22
@@ -131,7 +131,7 @@ We spent the remainder of our hospital stay finger feeding primarily, and no mor
 
 This saga felt like a life time, but when I refer back to my notes, this whole saga occured within 36 hours. E.g., first glucose test was at birth on 5/19 1am or so, and the last test was on 5/20...er my notes say end of day 5/20, but I can't recall what end of day means (night time? post 5pm?) But still, it was a scary 36 hours!
 
-To future new parents, information is power! Try to learn about the various tests hospitals administer and what "levers" parents can pull to increase baby's vitals readings, and hence positive results.
+To future new parents, information is power! Try to learn about the various tests hospitals administer and what "levers" parents can pull to increase baby's vitals readings, and hence favorable results.
 
 ## Temperature Drop
 
@@ -181,9 +181,9 @@ While still in the delivery room, a nurse instructed us to watch a video on brea
 
 Few hours later, the first lactation consultant taught us how to use a breast pump. The same one (or perhaps a second) lactation consultant watched us breast feed, and gave us tips. We were struggling. Baby was not latching, Mama did not understand how to hold the baby to maintain good alignment. And there was no colostrum coming from the breast yet, or at least not much (i supsect we pumped it all out - we had an intial pumping of 20 ml, but subsequent pumps barely yielded 3 mL total). In my opinion, we did not have a good first feeding, this lactation consultatn, if i remember correctly, essentially told us to keep practicing.
 
-Later on, a nurse inquired about our feeding. This nurse then saw we had stored pumped colostrum, and showed us how to use a syringe (looked like the same one from sweet cheeks) to feed baby! And how to use cotton swab stick as well. This helped us a lot! But not for long, because I believe we saw another lactation consultant shortly after (hilary! i think?), who taught us how to use SNS. This was another learning for us. She also taught us which hold to use, and how to align baby correctly for the best latch, and how to hand express in rolling wave motion. She also taught us to use teacup, instead of sandwhich since baby is small. With her assistance, we were able to adminster colostrum!
+Later on, a nurse inquired about our feeding. This nurse then saw we had stored pumped colostrum, and showed us how to use a syringe (looked like the same one from sweet cheeks) to feed baby! And how to use cotton swab stick as well. This helped us a lot! But not for long, because I believe we saw another lactation consultant shortly after (hilary! i think?), who taught us how to use SNS. This was another learning for us. Gma asked her about consulting resources outside of hospital. She could not answer due to hospital policy, but she has "friends who say so and so resources are so and so". With her help, we were able to administer colostrum! The next lactation consultant (hilary!) focused on teaching us which hold to use, and how to align baby correctly for the best latch, and how to hand express in rolling wave motion. She also taught us to use teacup, instead of sandwhich since baby is small. Once again, with nurse assistance, baby got lots of colostrum!
 
-Yet, when we tried without her, we failed miserably. Too much to learn while sleep deprived, and baby squirms around too much.
+Yet, when we tried without lactation support, we failed miserably. Too much to learn while sleep deprived, and baby squirms around too much.
 
 We were doing our best, but we knew we couldn't keep this up. Baby was barely getting the recommended volume, but every day the volume increases by 10 mL!! (we started with 5 mL).
 
@@ -209,7 +209,7 @@ We left the hospital confident on when to feed, and why, and we generally knew h
 
 Fortunately, Gma used her connections to find us a highly reviewed lactation consultant we could hire outside of the hospital!
 
-Gma sneakily asked many folks these questions. It was against hospital policy for them to answer, but one in particual gave great subtext.Hmm...actually, the one that gave great subtext saw us before hilary. Was she the one who taught us how to SNS? I think she was.
+Gma sneakily asked many folks these questions. It was against hospital policy for them to answer, but one in particual gave great subtext.
 
 ## Belly Button Fakeout
 
