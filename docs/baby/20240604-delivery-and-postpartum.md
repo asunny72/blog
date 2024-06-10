@@ -5,6 +5,7 @@ Written: 20240604
 Changelog:
 
 - 20240604: original draft
+- 20240608: added descrition of drive home from hospital
 
 # Labor and Delivery Timeline
 
@@ -181,7 +182,7 @@ While still in the delivery room, a nurse instructed us to watch a video on brea
 
 Few hours later, the first lactation consultant taught us how to use a breast pump. The same one (or perhaps a second) lactation consultant watched us breast feed, and gave us tips. We were struggling. Baby was not latching, Mama did not understand how to hold the baby to maintain good alignment. And there was no colostrum coming from the breast yet, or at least not much (i supsect we pumped it all out - we had an intial pumping of 20 ml, but subsequent pumps barely yielded 3 mL total). In my opinion, we did not have a good first feeding, this lactation consultatn, if i remember correctly, essentially told us to keep practicing.
 
-Later on, a nurse inquired about our feeding. This nurse then saw we had stored pumped colostrum, and showed us how to use a syringe (looked like the same one from sweet cheeks) to feed baby! And how to use cotton swab stick as well. This helped us a lot! But not for long, because I believe we saw another lactation consultant shortly after (hilary! i think?), who taught us how to use SNS. This was another learning for us. Gma asked her about consulting resources outside of hospital. She could not answer due to hospital policy, but she has "friends who say so and so resources are so and so". With her help, we were able to administer colostrum! The next lactation consultant (hilary!) focused on teaching us which hold to use, and how to align baby correctly for the best latch, and how to hand express in rolling wave motion. She also taught us to use teacup, instead of sandwhich since baby is small. Once again, with nurse assistance, baby got lots of colostrum!
+Later on, a nurse inquired about our feeding. This nurse then saw we had stored pumped colostrum, and showed us how to use a syringe (looked like the same one from sweet cheeks) to feed baby! And how to use cotton swab stick as well. This helped us a lot! But not for long, because I believe we saw another lactation consultant shortly after, who taught us how to use SNS. This was another learning for us. Gma asked her about consulting resources outside of hospital. She could not answer due to hospital policy, but she has "friends who say so and so resources are so and so". With her help, we were able to administer colostrum! The next lactation consultant focused on teaching us which hold to use, and how to align baby correctly for the best latch, and how to hand express in rolling wave motion. She also taught us to use teacup, instead of sandwhich since baby is small. Once again, with nurse assistance, baby got lots of colostrum!
 
 Yet, when we tried without lactation support, we failed miserably. Too much to learn while sleep deprived, and baby squirms around too much.
 
@@ -252,6 +253,24 @@ Our immediate family members were either attending graduations in other states o
 Fortunately, when mama's mother found out about the birth, she cancelled her upcoming trip to attend friend's daughter's graduation and took the week off of work to support us. She stayed with us during waking hours for an entire week, even after we left the hospital.
 
 During this time, she exceled at holding the baby to help him sleep, making sure Mama and Papa were fed and hydrated, and helped us navigate a storm of context switches from various check-ups and nurse/doctor/lactation visits and made sure to ask critical questions that we may have neglected. She also took on the responsiblity of providing ALL other family members updates on the baby, so that Mama and Papa could focus on baby. Ah, and she used her vast network to find us a highly well reviewed Lactation consultant who we could work with post hospital stay.
+
+## Driving Home From Hosptial
+
+We asked Gma to drive us home, as we were aware some stat proved driving while sleep deprived can be just as dangerous as driving drunk.
+
+The excitement of seeing Mama carrying baby outdoors was very exciting and emotional. Baby done with the tutorial levels and ready to start the adventure known as life!
+
+We quickly secured baby into car seat, which we practiced while still in the hospital (due to policy we could not carry baby out in car seat).
+
+Sadly, our premie baby didn't fit well. Only the shoulder straps were tight, the hip straps, and even the shoulder straps near the belly area, were flappy. And baby's head wasn't big enough to fit snuggly between the car seat's newborn insert head support section.
+
+I was so fun to see baby show a new reaction: squinting and tighter shutting of eyes as light hit his face (after which I engaged the car seat's sun shield).
+
+Baby was fussing, so I gave baby my pinkie finger to suck on. Dang he has a strong suck! My pinkie went numb by the end of the 30 minute car ride.
+
+Once we arrived home, I was graced with the priveledge of carrying baby via car seat into our apartment. I could tell, my shoulders are gonna be so strong in the future.
+
+Objectively we were not in hospital for long. Though to us it felt like a lifetime ago since we've last been home. It was just the way we left it - in the midst of cleaning out items to donate, and midway through setting up a new OS for the computer.
 
 # Subjective View On The Overall Experience
 
