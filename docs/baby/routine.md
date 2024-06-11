@@ -217,15 +217,26 @@ Remember that Mama and Papa rushed to bed 5-6 out of 8 feedings. For the 2-3 fee
 - Make incremental updates on the nursery to stream line our workflows
 - Call friends/family
 - Eat
-- Papa: race against oblivion to blog about what the hospital stay experience was like
+- Papa: blog about what the hospital stay experience was like
+
+## Nursery upgrades
+
+- Added baby monitor to enable Papa to leave baby's side while Mama is pumping
+- Added curtains for increased privacy and softer light
+- fan to circulate air to lower risk of sids
+- drying rack/bottle holder in feed prep station
+- pumping station sectioned off
+  - added timer so Mama doesn't need to do arthimetic to figure out how long she's been pumping for
+  - cable organizers to reduce clutter
+  - tablet stand to hold entertainment device at ergonomic height
+- Lots of pillows for nursing station - trying to find pillows that don't shift as much during feedings
+- thermometer that changes color once room falls outside of acceptable range -> at a glance judgement to decide whether room temp is okay
 
 ## Conclusive moment of first two weeks
 
-Pediatrician approval to let baby sleep up to 4 hours between feedings. Baby ended up sleeping around 3.5, as opposed to being woken at 3. This was a game changer for us. The extra 30 minutes made the difference betwen a full REM cycle of sleep or not. Emotionally we felt a huge burden being lifted.
+Pediatrician approval to let baby sleep up to 4 hours between feedings. Baby ended up sleeping around 3.5, as opposed to being woken at 3. This was a game changer for us. The extra 30 minutes makes the difference betwen a full REM cycle of sleep or not. Emotionally we felt a huge burden being lifted.
 
-We also now can start weening off of SNS, which gives us hope for even more sleep. We start to add in bath time as our routine is more predictable and we have more energy. Same with walks!
-
-Our head is above water, we treading steadily, and we've spotted where shore is. Hoping to enjoy the upcoming swim and finally get to solid land, which anti-metaphorically, is 6-7 hours of CONTINUOUS sleep per person.
+We also now can start weening off of SNS, which gives us hope for even more sleep.
 
 # Week 3
 
@@ -250,7 +261,37 @@ Try to ween off of sns - tough lots of emotional struggle around breast feeding
 
 wondering if nipple will heal, or if will just have to be prepared to endure lots of pain for a while
 
+take the week off to let nipp-le heal
+
 started to use home theatre as a soothing station during graveyard shift
+
+- move meds to pumping station as that is where mama is most frequently located when free to think about non baby things
+
+- baths
+
+- walks
+
+- tummy time
+
+## Between feedings during waking hours
+
+Remember that Mama and Papa rushed to bed 5-6 out of 8 feedings. For the 2-3 feedings where we were awake, here is what we did.
+
+- Make incremental updates on the nursery to stream line our workflows
+- Call friends/family
+- Eat
+- Papa: blog about what the hospital stay experience was like
+
+## Nursery upgrades
+
+- tummy time
+- bath time
+- bassinet walking time
+- home theatre as an extra soothing station
+
+## Conclusive Moment of Week 3
+
+Lactation consultant gave us okay to start weening off SNS and nipple shield
 
 # Week 4
 
@@ -265,6 +306,12 @@ Start: Bubbe enters the fray
 End: TK
 
 ## Routine
+
+start weening: more no sns and no shield time
+
+DoDo videos as pain distraction
+
+Mama got sick - we suspected breast infection, we shall see
 
 # Appendix
 
