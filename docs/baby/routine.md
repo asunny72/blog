@@ -303,15 +303,29 @@ Care team:
 
 Start: Bubbe enters the fray
 
-End: TK
+End: Father's day
 
 ## Routine
 
-start weening: more no sns and no shield time
+start weening: more no-sns and no-shield time
 
 DoDo videos as pain distraction
 
-Mama got sick - we suspected breast infection, we shall see
+Mama got sick - we suspected breast infection, not the case, likley from papa compresing too hard
+Likely mama relaxed cuz bubbe here to reliev A LOT of work from us
+
+more tummy time as baby is awake for longer
+
+# Week 5
+
+Start: Father's day
+end:
+
+## Routine
+
+officially no more sns, just nipple shield to start, and then bare breast to finish
+
+baby officially tracked mama as she moved from left to right
 
 # Appendix
 
