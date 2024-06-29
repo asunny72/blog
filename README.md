@@ -2,6 +2,12 @@
 
 https://asunny72.github.io/blog
 
+## Dev Setup
+
+1. Create venv of choice
+1. `pip install -r requirements.txt`
+1. `mkdocs serve`
+
 ## Deploy via GHA
 
 Followed [this guide](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions-material-for-mkdocs).
