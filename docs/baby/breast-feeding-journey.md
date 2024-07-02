@@ -1,6 +1,10 @@
 # Our Breast Feeding Journey
 
-It took us, underprepared first time parents of a late stage pre-term baby, 42 days for us to be confident with breastfeeding.
+After 42 days of strenuous effort, breastfeeding finally feels as advertised. Mama looks forwards to feeds during which she and baby experience a magical bonding. Mama and baby become one in mind body and spirit. Mama's breasts know when it's time to feed, and hearing baby's gentle hunger cries triggers milk let down. Mama can read baby cues like an open book. She knows when baby is frustrated by gas, and patiently helps baby process. She knows when baby is still hungry but sleepy, and that baby enjoys encouragement and speaking to. Nowadays, baby will even take breaks just to smile brightly at mama - baby's one true love. Mama relishes knowing that she gives baby both a nourishing meal, and emotional comfort. Mama feels it's quality time worth every ounce of effort.
+
+There are additional benefits as well! It's nice not to wash bottles, or anticipate how many ounces of milk baby needs, or not needing to pump.
+
+That being said, getting to this state was not easy. Getting to this point was the hardest thing mama has ever had to overcome.
 
 Establishing breastfeeding was very difficult; a journey ripe with tears, blood, hopelessness, a desire to quit, and sometimes regret.
 
@@ -20,11 +24,23 @@ We gritted our teeth, and white knucked through two weeks, waiting for the leath
 
 Things did not get better.
 
+He would be so grustrated we'd need to reattach all the time, or we wondered is he full?
+
 But finally, we rounded a corner after we introduced a pacifier pre feeding. Mama's nipple "leatherized". We learned how to soothe baby before feeds for a calmer session, baby started opening larger and gave us better latches.
 
 Our emotinal moods restored, and spirits lifted!
 
 Mama is back to her old self! And now having so much fun with breastfeeding! Baby is now old enough to randomly stop feeding to smile at Mama. Mama is so intuned with baby's queues.
+
+Crazy now that memories of the pain have been disappating into oblivian
+
+they alleviate the preesure in her breasts,
+
+All the things people told us along the way (oh he'll get the latch eventually, etc) did not seem achievable, but we got there, in our own time.
+
+We detail below how we got to a point of good breast feeding
+
+## Training wheels
 
 ![feeding progression](./img/feeding-progress.png)
 ![sns demo](./img/sns-demo.jpg)
