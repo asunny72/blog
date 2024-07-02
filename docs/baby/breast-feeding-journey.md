@@ -12,9 +12,7 @@ We were so underslept, our emotional control and mental strategies to stay posit
 
 Days could not be any longer. Wasn't breastfeeding supposed to be a magical moment between mother and child? Why is it causing an active rift where Mama is less present than ever during feedings, and too emotionally depressed to play with baby more than once or twice after feeds?
 
-This was an increadibly tough time in our lives, in that we were faced with emotional blow after blow, kept piling on frustration.
-
-Online resources and lactation consultants would inform us that there shouldn't be any pain after an initial two week period.
+This was an incredibly tough time in our lives, in that we were faced with emotional blow after blow, kept piling on frustration, and kept losing momentum. For example, online resources and lactation consultants would inform us that there shouldn't be any pain after an initial two week period.
 
 We worked with a really good private lactation consultant who informed us that there will be pain - the nipple needs to leatherize. Then, there should be pain everytime at the start, but should get better quickly.
 
@@ -26,11 +24,26 @@ But finally, we rounded a corner after we introduced a pacifier pre feeding. Mam
 
 Our emotinal moods restored, and spirits lifted!
 
+Mama is back to her old self! And now having so much fun with breastfeeding! Baby is now old enough to randomly stop feeding to smile at Mama. Mama is so intuned with baby's queues.
+
 ![feeding progression](./img/feeding-progress.png)
 ![sns demo](./img/sns-demo.jpg)
 ![sns](./img/sns.jpg)
 
+## Our theories on cause of pain
+
+- abrasian against nipple shield
+- fussiness would cause baby to pull off the nipple partially (transforming any latch into a shallow latch), and chomp on it as baby squirms around
+- baby was used to only opening mouth the size of the nipple shield, as opposed to maximally large
+- mama was used to enabling smaller opening, as nipple shield affords this
+- baby was not patient, and we felt urgency to latch him asap, even when open wasn't sufficient
+- it was hard to judge max opening
+
 ## Underplaying the emotional/physical dificulty
+
+TK
+
+## Hearing the same messages, to no avail
 
 TK
 
