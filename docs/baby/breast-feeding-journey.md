@@ -167,6 +167,15 @@ We needed to use football hold, since we needed maximum control over shaping mam
 
 In this section, we will focus on the nursing cockpit. Think of the nursing cockpit as essentially a GIANT brest friend, and think of the brest friend as a giant boppy, and think of the boppy as a giant airplane neck pillow that wraps around Mama's waist instead of her neck.
 
+Here is the boppy:
+![boppy](./img/boppy.jpg)
+
+Here is the brest friend:
+![brest friend](./img/brest-friend.jpg)
+
+Here is our nursing cockpit:
+![cockpit](./img/nursing-cockpit.jpeg)
+
 Essentially, we needed a platform that would raise baby up to mama's nipples. The height of this platform should be from mama's sit bones (assuming she's sitting down), to the mid point of her breast, minus half the diameter of baby's head.
 
 We made a giant brest friend out of lots of pillows. Under the arm that holds baby, we placed a stack of intially three firm, memory foam pillows. We also need to place a pillow in front of mama's belly, that would be at the same height as the aforementioned pillow stack. This is because baby's body will rest on the pillow stack, but the head will ultimately be in front of mama's breast, where her nipple points, so to support the hand holding the baby's head, we need this pillow.
@@ -180,8 +189,6 @@ Keep in mind rectangular pillows don't wrapp around a curved torso well, so ther
 We didn't have enough pillows for a perfectly syymetrical setup, so everytime we switched which breast to feed on, we also needed to switch the pillows to the other side, and once again make sure we got rid of all crevace issues.
 
 At time of writing, baby is 7 weeks old, and we are still using nursing cockpit, though now with a stack of two pillows as opposed to three. We are starting to practice using the brest friend, and while we still rely on nursing cockpit, we can testify to how much simpler brest friend setup is: one piece, crevace-less construction.
-
-[TODO - add pictures]
 
 The other setup we used at the doctor's office was an arm chair with very tall armrests, where baby wold rest on a firm pillow between mama and the armrest. The pilow was positioned parallel with the arm rest. The chair was so deep that even when the pillow was uncompressed, it wouldn't exceed the height of the armrest. This setup worked wonders! Baby would be an expert feeder the 2 or 3 times we got to use this setup!
 
