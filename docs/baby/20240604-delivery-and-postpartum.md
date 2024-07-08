@@ -2,11 +2,6 @@
 
 Written: 20240604
 
-Changelog:
-
-- 20240604: original draft
-- 20240608: added descrition of drive home from hospital
-
 # Labor and Delivery Timeline
 
 - 5/17 4pm
