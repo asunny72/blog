@@ -1,4 +1,4 @@
-# [WIP] The Invisible Support Person
+# The Invisible Support Person
 
 Of the baby caretaking team, Mama gets **the most** attention. Lots of loving friends and family will inquire about mama's health, and emotional mood, and provide oodles of love and support.
 
@@ -26,15 +26,24 @@ Late at night, Papa accidentally became an insomniac, and while he was trying to
 
 When baby finally arose, mama and papa fought Bubbe tooth and nail to get her to bed. Yet, every 2-3 hours bubbe would silently sneak out like a phantom and poke her head into the nursery to check in on us. Despite being super late at night (or early in the morning :shrug:), every time she would check mama and papa's water bottles, and fill them up with cold water. Then, at around 6am or so, Bubbe would appear out of nowhere to hold the baby to sleep so mama and papa can keep sleeping.
 
-In the beginning, all Mama and papa did was sleep and nap. But not bubbe. During the day time, when bubbe wasn't with the baby, she was working on the house.
+In the beginning, all Mama and papa did was sleep and nap. But not bubbe. During the day time, when bubbe wasn't with the baby, she was cleaning the house, fighting an endless storm of laundry, improving the ergonomics of the house, decluttering, and cooking mama and papa a brand new, restaurant quality meal. I kid you not every meal was different! She would venture out to gather groceries, and supplies such as larger baby clothes. She'd also frequently provide mama and papa snacks and tasty beverages.
 
-When baby started becoming more wakeful, Bubbe would tirelessly play with baby. She would read so many books, tk, tk ,tk
+The only break bubbe took was a mid day swim. Oh, that reminds me, for some reason though retired she still works for at least 4 hours every week day. Yes, her retirement party was a scam!
 
-The only break bubbe took was a mid day swim. Oh, that reminds me, for some reason though retired she still worked for at least 4 hours every week day. Yes, her retirement party was a scam!
+When baby started becoming more wakeful, Bubbe would tirelessly play with baby. She would read so many books to baby, show baby so many new sights, talk so patiently with baby with the most exaggerated faces, always finding new things to talk about. As a father, it was heartwarming to see someone be so engaging and gentle with his baby, again and again, and again. Suddenly I understand how bubbe came to memorize so may different books and songs.
 
-## TK
+But alas, bubbe is a vulnerable human like the rest of us. As much as she wanted to hog all of the sleep deprivation and labor from mama and papa, she isn't immune to exhaustion. And while mama and papa have greatly enjoyed the fruits of her self-lessness and intense work-ethic, we also now see, that as personality traits, these can be double edged swords.
 
-- very good w/ grand child (baby)
-- Super organized
-- New recipes for every meal
-- always wakes up in middle of night to check in on us
+Turns out, bubbe is actually quite a sensitive soul. She is often too hard on herself, almost feeling inadequte for not being helpful enough. She is sensitive to percieved mistakes she made, wanting to make up for her actions with even more labor. She puts the needs of mama before her own, often taking quick action to help mama feel better, even if it means the outcome isn't the one she prefers or imagines. She's like a shadow in that sense, always there, but always in the background, invisible.
+
+Im not the best writer. I hope my prose properly expresses my gratitude. Bubbe has done so much for mama and papa in one of the hardest times in their life. Unconditionally.
+
+We should not let her stay invisible. Bubbe deserves to be pampered the same way she pampered us. She deserves to be supported the same way she supported us. She doesn't need it, or our thanks, but she deserves it.
+
+My primary call to action to bubbe's support people: take her on multiple spa trips, pay for multiple deep tissue sports massages, treat her to countless wonderful restaurants, and enable her to chase her dreams.
+
+My secondary call to action. Is the support person's support person even more invisible? E.g., the co-chef who made us delicious chicken enchilladas, and helped Bubbe move into her new home so bubbe can focus on mama and papa.
+
+Notable mentions that I did not work into the prose due to time constraints and lack of skill.
+
+- Bubbe is super organized and great at improving organizational efficiency of any space. The kitchen and fridge are SUPER organized these days. And every room was decluttered.
