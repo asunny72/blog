@@ -1,14 +1,16 @@
 # How Much Parental Leave to Take
 
+All below statements are opinions heavily biased by my own context. YMMV
+
+A good criteria for when to return to work is when will Mama get enough sleep to be happy and pseudo self sufficient during the day.
+
+The biggest factor to mama's sleep duration, is how parents choose to feed baby.
+
 ## If Exclusive Breastfeeding...
 
 If you plan on commiting to exclusive breastfeeding, make sure both parents concurrently take at least 8 weeks off, ideally 12.
 
-Exclusive breastfeeding is VERY difficult, and the toughest variation of feeding a baby. Our hospital strongly pushed us towards this direction, but did not adequtely warn us on the difficulty.
-
-Modern life and corporate culture make exclusive breast feeding even more difficult.
-
-Here are the challenges with breast feeding exclusively:
+Exclusive breastfeeding is VERY difficult, and the toughest variation of feeding a baby. Here are the challenges with breast feeding exclusively:
 
 1. Mama cannot sleep more than one REM cycle at a time until 8-12 weeks when baby starts to sleep 5-6 hours at night. In all other forms of breastfeeding, mama and papa can take turns feeding, thus enabling each other to sleep for longer. To reiterate, this doesn't work with exclusive breastfeeding.
 
@@ -18,7 +20,7 @@ Notice a pattern? Essentially mama and papa will have pretty brutal sleep window
 
 Papa originally took one month off, and wanted to wait until mama returned to work after her 6 month leave to take the remaining time off. This model seems quite common at papa's company, and logically makes sense to extend the amount of time there is one full time parent around.
 
-This model does NOT work for exclusive breastfeeding as both parents are needed to help each other get through the oh-so-very-long days.
+This model does NOT work for exclusive breastfeeding as both parents are needed to help each other get through the oh-so-very-long days. I would recommend waiting until mama can sleep more before one of the parents returns to work
 
 ## If doing hybrid approach with breast and bottle
 
