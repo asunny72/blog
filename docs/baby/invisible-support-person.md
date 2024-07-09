@@ -6,7 +6,7 @@ The other members of the caretaking team, on the other hand.....**so little!!**
 
 The person with least supprt is the invisble support person (or team) responsible for taking care of mama and papa. In our case, bubbe (gma).
 
-Bubbe plays a thankless role where the difficulity level and exhaustion can be easily overlooked by others. Bubble worked herself so hard for so many weeks in a row, and slept so little that **she drove herself to sickness and needed 2.5 days of bed rest to recover**.
+Bubbe plays a thankless role where the difficulity level and exhaustion can be easily overlooked by others. Bubble worked herself so hard for so many weeks in a row, and slept so little that **she drove herself to sickness and needed 2.5 days of bed rest to recover** (she recovered excellently).
 
 Bubbe left behind her posh home with the world's most luxiorious pool and entertainment space to stay with baby in a small 2b 2b apartment for 5 weeks. She skipped three parties and social events, one of which was a very special family occasion, to minimize the chances of getting baby sick. She took no weekends off, and dedicated 100% of her time to baby, mama, and papa.
 
