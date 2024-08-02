@@ -22,6 +22,8 @@ Shiny the display is akin to the passenger who inquires "are we there yet" every
 
 ## How it works explained at a high level to a computer enthusiast
 
+![overview](./img/basic-display-overview.png)
+
 Bawbawah is a web server that stores the most recently fed time in memory. Users can use an HTTP PUT request to update the feed time, and a GET request to retrieve the feed times. We implemented the server via FastAPI on a Raspberry Pi 2 Model B V1.1 (2014).
 
 The same Raspberry Pi is connected to an eink display from Pimori ([link](https://shop.pimoroni.com/products/inky-phat?variant=12549254938707)). A separate process runs a loop that polls the server for feed times every 0.5 seconds.
