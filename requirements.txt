@@ -40,6 +40,6 @@ tinycss2==1.2.1
 urllib3>=1.26.18
 watchdog==2.3.1
 webencodings==0.5.1
-zipp==3.15.0
+zipp>=3.19.1
 mkdocs-swagger-ui-tag==0.6.8
 mkdocs-exclude-search==0.6.6
