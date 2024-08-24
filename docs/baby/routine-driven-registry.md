@@ -1,105 +1,32 @@
-# [WIP] Baby Registry And How The Items Fit In Our Routine
+# Our Baby Registry
 
-This document aims to knock out two birds in one stone: a) share an informed list of battle-tested newborn products (specifically 0 to 2 months) and ones to avoid and b) share our care taking routine.
+We organize our list based on room the items reside in.
 
-These two topics naturally go together as we find the nursery/products themselves become a crucial member of the baby rearing team.
+## Nursery
 
-First we overview our routine, then we detail the rooms that aid us in our routine, and the newborn products in each room.
+![Nursery components](./img/nursery.png)
 
-Note that we present the final, battle tested version. Our routine has gone through many iterations.
+1. Crib: [Silva Serena Convertible](https://silvafurniture.com/products/serena-convertible-crib)
 
-Disclaimer: Every baby is different. Every situation is different. Our routine was influenced by our choice to exclusively breastfeed, baby's preference for tight swaddles, and the size of our village.
+   1. Hardwoods only, and water based finish, greed guard certified -> minimal VOCs emission
+   1. Pricey, but built to last -> can convert to full size bed after purchasing extra parts
 
-## Routine
+1. Mattress: [Naturepedic Organic 2-Stage Lightweight Infant & Toddler Mattress with Protector Pad](https://www.amazon.com/dp/B07NQN9XBT/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=IEJHAGQIOK2M7&th=1)
 
-At a high level, our routine centered around four phases:
-
-1. Feeding baby
-1. Playing with baby
-1. Soothing baby
-1. Recharge
-
-Baby would wake every 2-4 hours. Upon waking, we feed baby. After feeding, if baby shows signs of wakefulness, we play with baby. When baby shows signs of sleepiness, we put baby to bed. When baby is sleeping, the care taking team has team to recharge.
-
-Our caretaking team consisted of three members: mama, papa, and gma. Since mama is irreplacable for breastfeeding, and since she needs to wake up every time baby wakes up, her "chores" center on all things feeding, pumping, and milk. Whenever possible, mama would rush to bed. Papa focused on all other support tasks such as diaper changes, swaddling, holding baby's arms during feedings, and help mama time the latch. Since papa can be replaced by another support person, papa would aggresively take on as many baby soothing shifts as possible to maximize mama's sleep time. Gma would be responsible for taking care of mama and papa. Gma would feed them, hydrate them, replenish laundry, keep the house clean, and hold the baby whenever possible to afford mama and papa more sleep.
-
-Here is a depiction of our caretaking space:
-
-TODO: add diagram
-
-### Feeding the baby
-
-Baby wakes up in one of two places: the crib, or in a care taker's arms, who was resting in soothing station.
-
-We always fed the baby in the nursery
-
-TODO: pic of nursery
-
-Papa unswaddles baby in the crib, and moves baby to the diaper changing station to clean baby.
-
-Meanwhile, makes any necessary feeding preparations at the feeding station. For example, when we still needed to supplement breastfeeding with pre-pumped milk, mama would retrieve the pre-pumped milk, and prepare the feeding tube and syringe we used to transfer milk.
-
-Next mama moves to the nursing station and adjusts the nursing pillows and lays down towels and burp clothes to absorb milk spillages and spit up.
-
-Once both mama and papa are ready, papa moves baby to the nursing station. Papa stands by to support mama, typically restraining baby's hands from interferring with breast feeding, and either helping mama with latch timing, or with the feeding tube or syringe.
-
-Once baby settles, papa goes to the feeding station to log notes about this specific feeding. For example, papa updates a whiteboard with time of baby's most recent feeding, and the estimated time for baby's next feed.
-
-Baby feeds from 30 - 45 minutes, including setup changes, and burp breaks. After the feed, mama holds baby upright for 15 minutes, and then call papa to take over.
-
-Papa proceeds to change baby's diaper and if during the day time, papa puts clothes on baby, else, baby swaddles baby.
-
-During this time, mama pumps, if needed.
-
-### Playing with baby
-
-and papa would take turns putting baby to sleep if baby was really fussy, though papa would aggress
-
-The nursery was 80% ready - all of the major blocks and components were present, though we were lacking in accessories/smaller items that were needed to efficiently care for the baby, such as a shortage of linens.
-
-![nursery components](./img/nursery.png)
-
-Below we will describe the components, and their respecitive missing items
-
-### Soothing baby
-
-TK
-
-### Recharge
-
-TK
-
-## Baby Registry by station
-
-### Nursery
-
-![nursery components](./img/nursery.png)
-
-Let's start with the battle tested products.
-
-1. Crib
-
-   1. Crib ([link](https://silvafurniture.com/products/serena-convertible-crib))
-
-      1. Hardwoods only, and water based finish, greed guard certified -> minimal VOCs emission
-      1. Pricey, but built to last -> can convert eventually to full size bed
-
-   1. Mattress ([link](https://www.amazon.com/dp/B0817CS1D4/ref=br_dsk_yr_item_seebyopt?colid=1WJ6CRJNFGWAS&coliid=I1PZXNL53BNWZ7))
-
-      1. gots and greenguard certified
-      1. waterproof coating
-      1. comes with breathable cover that allows air to flow under the baby -> e.g., in theory babies can breathe through it, so if they accidentally roll over onto their stomach, and their face is pressed against the bed, they can, again, in theory still breath. This is per marketing on their website. I have not personally tested and am not a medical professional, nor am I giving trustworthy advice. These are my personal opinions. Please consult your medical professional, and do not hold me liable.
+   1. gots and greenguard certified
+   1. waterproof coating
+   1. comes with breathable cover that allows air to flow under the baby -> e.g., in theory babies can breathe through it, so if they accidentally roll over onto their stomach, and their face is pressed against the bed, they can, again, in theory still breath. This is per marketing on their website. I have not personally tested and am not a medical professional, nor am I giving trustworthy advice. These are my personal opinions. Please consult your medical professional, and do not hold me liable.
 
    1. Breathable mattress cover (if mattress does NOT come with one, [link](https://www.naturepedic.com/baby/bedding/organic-breathable-crib-cover))
 
-   1. Baby monitor ([link](https://www.amazon.com/Babysense-Split-Screen-Monitor-Two-Way-5000mAh/dp/B0BRYFD1YT?pd_rd_i=B0BRYFD1YT&ref_=pd_bap_d_grid_rp_0_1_ec_cp_pd_rhf_se_s_rp_c_d_sccl_2_17_t))
+1. Baby monitor: [Babysense Split Screen](https://www.amazon.com/Babysense-Split-Screen-Monitor-Two-Way-5000mAh/dp/B0BRYFD1YT?pd_rd_i=B0BRYFD1YT&ref_=pd_bap_d_grid_rp_0_1_ec_cp_pd_rhf_se_s_rp_c_d_sccl_2_17_t)
 
-      1. Not wifi based, so even if there is an outage monitor will run
+   1. Not wifi based, so even if there is an outage monitor will run
 
-   1. Temperature monitor near the crib (NOT in!) ([link](https://www.amazon.com/LittleHippo-Changing-Customizable-Thermometer-Hygrometer/dp/B078Z4JCJL?pd_rd_i=B078Z4JCJL&psc=1&ref_=pd_bap_d_grid_rp_0_7_t))
+1. Temperature monitor near the crib (NOT in!) ([link](https://www.amazon.com/LittleHippo-Changing-Customizable-Thermometer-Hygrometer/dp/B078Z4JCJL?pd_rd_i=B078Z4JCJL&psc=1&ref_=pd_bap_d_grid_rp_0_7_t))
 
-      1. This one emits, optionally, an amber light when temperature is within acceptable range, and glows blue when room is too cold, and red when room is too hot
-      1. Once glance from anywhere in the room is all it takes to confirm whether room temp is okay
+   1. This one emits, optionally, an amber light when temperature is within acceptable range, and glows blue when room is too cold, and red when room is too hot
+   1. Once glance from anywhere in the room is all it takes to confirm whether room temp is okay
 
 1. Diaper Changing Station
    1. Mobile for changing table ([link](https://www.amazon.com/Montessori-Mobile-Baby-Rotate-Musical/dp/B088TCNZ52/ref=sr_1_6?crid=2O2BJ8OOAECS4&dib=eyJ2IjoiMSJ9.wE6QblDK5gMManqpkWFAKcobYYOTIIv88jdfCNkIjHxYpYp6JUgsjINGZWPG50DxVHpubdklhNDsEPw77Z-mC5NvrSZ_X80p-73xDHApDwOCw4ypzSbqFh3THnfcjbZmY571mvAjwgb6PPsFclZGOEqr5L58j7NpB9gUN1ho8K5sC7op98G8PDTMPG9PkiVFYmSTEz9S3XAphAbIDmNsyxTw6XsUbicISAWwBehXk_D0SYFwKvzeG5C0PoRCVl9NCKJQlC-bbocoq-d5YVFqrs-yJTVTwT9eiXaCz3g3icA.pAdzrY8p39-9T4_stM_ECNTxONFaJzSU8JvAVqwA7Qg&dib_tag=se&keywords=high+contrast+baby+mobile&qid=1720456036&sprefix=vi%2Caps%2C142&sr=8-6))
@@ -110,7 +37,7 @@ Let's start with the battle tested products.
       1. Can adjust light temperature (useful to use orange light during night time)
    1. Dresser as changing table ([link](https://babyletto.com/products/bento-3-drawer-changer-dresser-with-removable-changing-tray?variant=39504944398390&nbt=nb%3Aadwords%3Ax%3A16408512883%3A%3A&nb_adtype=pla&nb_kwd=&nb_ti=&nb_mi=134418441&nb_pc=online&nb_pi=shopify_US_6596974542902_39504944398390&nb_ppi=&nb_placement=&nb_si={sourceid}&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=&tw_source=google&tw_adid=&tw_campaign=16408512883&gad_source=1))
       1. greenguard certified
-      1. Ideally, to lower VOCs emissions even more, we would've gotten dressor with zero engineered wood, butnot ideal in that there is still engineered wood, but then price into the $1000 plus range
+      1. Ideally, to lower VOCs emissions even more, we would've gotten dressor with zero engineered wood if they were more affordaable
       1. Top drawer
          1. diapers - we prefer Lil Snugglers By Huggies ([link](https://www.amazon.com/HUGGIES-Snugglers-Diapers-CONVENIENCE-Packaging/dp/B00J7PIH2C/ref=sr_1_4?rdc=1&s=baby-products&sr=1-4))
          1. aquafor for diaper rash ([link](https://www.amazon.com/dp/B0107QP1VE/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I2F64B2YFXFVJB))
@@ -133,7 +60,6 @@ Let's start with the battle tested products.
    1. Clock ([link](https://www.amazon.com/Foxtop-Non-Ticking-Operated-Decorative-Classroom/dp/B07RS18VQ4?pd_rd_i=B07RS18VQ4&ref_=pd_bap_d_grid_rp_0_1_ec_pd_rhf_se_s_rp_c_d_sccl_2_5_t))
 1. Feeding Station
    1. Dressor for feeding prep station ([link](https://babyletto.com/products/gelato-3-drawer-changer-dresser-with-removable-changing-tray?variant=1794434531352))
-   1. Fan
    1. Bottle rack holder ([link](https://www.amazon.com/dp/B00RQ83N76/ref=br_dsk_yr_itemdt_dp?colid=1WJ6CRJNFGWAS&coliid=I3GXG55TCSCD7U&psc=1))
    1. Whiteboard ([link](https://www.target.com/p/u-brands-11-34-x14-34-contempo-magnetic-dry-erase-board-white/-/A-50525359#lnk=sametab))
    1. notebook
@@ -151,7 +77,7 @@ Let's start with the battle tested products.
 
    1. TK
 
-1. Recharge
+1. Misc.
    1. Hand lotion that we apply after baby is in bed ([link](https://www.amazon.com/Gold-Bond-Ultimate-Intensive-Healing/dp/B00A8S6HM4/ref=sr_1_2_sspa?sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1))
 
 Let's discuss swaddles in more detail. Nurses will teach you how to swaddle in the hospital. As a first time parent, I found using the exact same type of blanket as the hospital was quite helpful ([link](https://www.amazon.com/PILL-THING-Swaddle-Hospital-Receiving/dp/B085LSX4RX/ref=asc_df_B085LSX4RX/?gad_source=1&hvadid=693129867965&hvdev=c&hvdvcmdl=undefined&hvlocint=undefined&hvlocphy=9032172&hvnetw=g&hvpone=undefined&hvpos=undefined&hvptwo=undefined&hvqmt=undefined&hvrand=6728397118804932852&hvtargid=pla-1251729297828&mcid=02f02015aba932edb7642ff8b0def27f)). The fabric is the easiest fabric type to create a tight swaddle with as there is zero stretch. If you pull the fabric tightly, it stays tight. Unfortunately for us, there were out of stock when we most needed them. Hence, we moved on to other, more popular fabric types: jersey cotten w/spandex, and muslin.
@@ -180,9 +106,7 @@ We made this with a [wedge pillow](https://www.amazon.com/gp/product/B09CFW2M16/
 
 Next let's discuss products we had, but didn't need or do not recommend
 
-1. Non - high contrast mobile over the crib -> baby can only see high contrast at this stage
 1. Keekaro peanut - way too big for a newborn and has unnatural divet that separates head area from torso area that just unbalances baby. Also doesn't fit in standard dressing table changing pad constraints. Cold to touch and would always wake warm baby. Wipaeable, but so is a changing pad with no cover. Perhaps this will be useful for bigger baby, but not at all helpful for newborn. Prefer $30 changing pad with waterproof shell.
-1. White noise machine (fan is essentially the same thing)
 1. 30" by 30" blankets - Too small to swaddle with.
 1. velcro swaddles whose arm constraints are too close to top of swaddle (explained why above) ([link](https://www.amazon.com/dp/B09Q4R94ML?ref=ppx_yo2ov_dt_b_product_details))
 
